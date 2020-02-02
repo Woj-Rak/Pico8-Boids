@@ -1,2 +1,12 @@
 # Pico8-Boids
- Boids implementation in Pico8
+A simple boids implementation in pico 8 based on http://www.vergenet.net/~conrad/boids/pseudocode.html
+
+Comes with a menu which allows you to change some parameters and toggle the different flocking rules to see how each one affects the simulation
+
+## Menu
+![Menu](/img/boids_menu.png)
+
+## Gifs
+![](/img/boids_0.gif)
+![](/img/boids_1.gif)
+![](/img/boids_2.gif)
